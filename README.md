@@ -1,21 +1,182 @@
-<h1 align="center">Hi 👋, I'm sanjana maurya</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjana07643&label=Profile%20views&color=0e75b6&style=flat" alt="sanjana07643" /> </p>
+# 👋 Hi, I'm Sanjana Maurya
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjana07643" alt="sanjana07643" /></a> </p>
-
-- 🌱 I’m currently learning **Frontend, Java, DSA**
-
-- 📫 How to reach me **sanjanamaurya200607@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sanjana__1007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjana__1007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/sanjana-maurya-2b0043388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sanjana-maurya-2b0043388" height="30" width="40" /></a>
-<a href="https://instagram.com/sanjana_maurya___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjana_maurya___" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanjana_maurya07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjana_maurya07" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student;Frontend+Developer+in+Progress;Java+%26+DSA+Learner;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/sanjana07643">
+    <img src="https://komarev.com/ghpvc/?username=sanjana07643&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/github/followers/sanjana07643?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjana07643&" alt="sanjana07643" /></p>
+---
+
+## 👩‍💻 About Me
+
+I'm a **B.Tech Computer Science Engineering student** who enjoys learning by building things.
+
+* 🌱 Currently learning **Java, DSA & Frontend Development**
+* 💻 Interested in **Software Development & Problem Solving**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🚀 Building projects to turn concepts into practical skills
+* 🏆 Participated in hackathons and collaborative projects
+* 📚 Currently strengthening my programming fundamentals
+
+> **Learn → Build → Break → Fix → Repeat.**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,js" height="45"/>
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="45"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="45"/>
+</p>
+
+### Currently Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,spring" height="45"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjana07643&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjana07643&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjana07643&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjana07643&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanjana07643&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%"/>
+</p>
+
+---
+
+## ⭐ GitHub Overview
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sanjana07643?style=for-the-badge&logo=github&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/forks/sanjana07643?style=for-the-badge&logo=github&label=Total%20Forks" />
+  <img src="https://img.shields.io/github/repositories?style=for-the-badge&logo=github&label=Repositories" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌾 Agri Adapt Hub
+
+A frontend project focused on helping farmers understand and adapt to changing agricultural conditions.
+
+**Tech:** HTML • CSS • JavaScript
+
+<p>
+  <a href="https://sanjana07643.github.io/Agri-Adapt-Hub/">
+    <img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sanjana07643/Agri-Adapt-Hub">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🚨 Sahara X
+
+A collaborative hackathon project designed around connecting people with relevant support and services through a digital platform.
+
+**Tech:** Web • Backend • APIs • AI/ML concepts
+
+<p>
+  <a href="https://sahara-ecsxgljyc-sabr-squad.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💡 Currently Working On
+
+```text
+Frontend Development  ███████████████░░░░░
+Java                  ███████████░░░░░░░░░
+DSA                   ████████░░░░░░░░░░░░
+Problem Solving       ███████░░░░░░░░░░░░░
+Projects              ██████████░░░░░░░░░░
+```
+
+---
+
+# 🧩 Problem Solving
+
+<p align="center">
+  <a href="https://leetcode.com/sanjana_maurya07/">
+    <img src="https://img.shields.io/badge/LeetCode-sanjana__maurya07-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+Currently focusing on:
+
+`Arrays` → `Strings` → `Linked Lists` → `Stacks` → `Queues` → `Trees` → `Graphs` → `Dynamic Programming`
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sanjana-maurya-2b0043388">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sanjanamaurya200607@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/sanjana_maurya07">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/sanjana__1007">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Consistency beats intensity."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
