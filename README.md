@@ -95,45 +95,12 @@ I'm a **B.Tech Computer Science Engineering student** who enjoys learning by bui
 
 ---
 
-# 🚀 Featured Projects
-
-### 🌾 Agri Adapt Hub
-
-A frontend project focused on helping farmers understand and adapt to changing agricultural conditions.
-
-**Tech:** HTML • CSS • JavaScript
-
-<p>
-  <a href="https://sanjana07643.github.io/Agri-Adapt-Hub/">
-    <img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sanjana07643/Agri-Adapt-Hub">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🚨 Sahara X
-
-A collaborative hackathon project designed around connecting people with relevant support and services through a digital platform.
-
-**Tech:** Web • Backend • APIs • AI/ML concepts
-
-<p>
-  <a href="https://sahara-ecsxgljyc-sabr-squad.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-0E75B6?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💡 Currently Working On
+# 💡 Currently Working On
 
 ```text
-Frontend Development  ███████████████░░░░░
-Java                  ███████████░░░░░░░░░
 DSA                   ████████░░░░░░░░░░░░
+Java                  ███████████░░░░░░░░░
+Frontend Development  ███████████████░░░░░
 Problem Solving       ███████░░░░░░░░░░░░░
 Projects              ██████████░░░░░░░░░░
 ```
